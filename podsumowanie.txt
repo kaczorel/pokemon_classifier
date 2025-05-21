@@ -1,0 +1,21 @@
+=== Podsumowanie treningu ===
+Liczba epok: 30
+Najlepsza dokładność treningowa: 0.6603
+Najlepsza dokładność walidacyjna: 0.7244
+Średnia dokładność treningowa: 0.5860
+Mediana dokładności treningowej: 0.6145
+
+Dokładność na zbiorze testowym: 0.7223
+Strata na zbiorze testowym: 0.8085
+
+
+
+=== Podsumowanie treningu === pokemon
+Liczba epok: 30
+Najlepsza dokładność treningowa: 0.3141
+Najlepsza dokładność walidacyjna: 0.3125
+Średnia dokładność treningowa: 0.2316
+Mediana dokładności treningowej: 0.2325
+
+Dokładność na zbiorze walidacyjnym: 0.3000
+Strata na zbiorze walidacyjnym: 2.3605
